@@ -1,0 +1,63 @@
+body{
+    background-color: moccasin;
+}
+.fruits{
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px;
+    background-color: grey;
+    margin:15px ;
+    color: aqua;
+}
+.cars{
+    border: 4px dashed saddlebrown;
+    background-color: oldlace;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    font-family: "Yu Gothic UI Light";
+    font-size: 16px;
+    color: gold;
+}
+.FRUITS{
+    margin: 15px;
+    padding: 15px;
+    border: 4px solid goldenrod;
+    font-family: Jokerman;
+    font-size: 18px;
+    background-color: cadetblue;
+    color: peachpuff;
+    text-align: center;
+}
+#hike{
+    border: 2px solid black;
+    margin: 15px;
+    padding: 15px;
+    font-size: 18px;
+    font-family: "Roboto Light";
+    text-align: center;
+    background-color: oldlace;
+}
+#kayaking{
+    border: 2px dashed black;
+    margin: 15px;
+    padding: 15px;
+    font-family: "Juice ITC";
+    text-align: center;
+    background-color: mintcream;
+    font-size: 18px;
+}
+#ziplining{
+    border: 2px solid darkslategray;
+    margin: 15px;
+    padding: 15px;
+    font-family: "Engravers MT";
+    text-align: center;
+    background-color: ghostwhite;
+    font-size: 20px;
+}
+#hike,h2{
+    font-family: Tahoma;
+    font-size: 22px;
+    text-decoration: underline;
+}
